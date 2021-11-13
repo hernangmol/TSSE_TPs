@@ -13,7 +13,7 @@
 #define LEDS_ALL_ON     0xFFFF
 #define LEDS_OFFSET     1
 #define LED_ON_STATE    1
-#define LED_OFF_STATE   0
+#define LED_OFF_STATE   0 
 
 static uint16_t *puerto;
 
